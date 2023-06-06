@@ -1,2 +1,2 @@
 # Felicity Games
-<img src = '../README.md' />
+<img src = '../Group 1.png' />
